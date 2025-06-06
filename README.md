@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👾 Daniel Oestreich
 
-<!--
-**Denvi96/Denvi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Python`**
+<p align="left">
+    <a href="https://www.twitch.tv/denvi9">
+        <img 
+            alt="Twitch" 
+            title="Inscreva-se na twitch" 
+            src="https://custom-icon-badges.demolab.com/badge/pygame-150458.svg?logo=grey-pygame?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=6441A5"
+        />
+    </a>
+    
+</p>
 
-Here are some ideas to get you started:
+Me chamo Daniel Vinicius Oestreich, tenho 26 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Jovem Programador no SENAC-PALHOÇA. Sou apaixonado por tecnologia e animações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
