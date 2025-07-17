@@ -12,7 +12,7 @@
     
 </p>
 
-Me chamo Daniel Vinicius Oestreich, tenho 26 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Jovem Programador no SENAC-PALHOÇA. Sou apaixonado por tecnologia e animações.
+Profissional criativo em transição para a tecnologia. Com 5 anos de experiência em Marketing Digital, atuando com design, vídeo e estratégias, atualmente estudo Python, bancos de dados e APIs. Busco uma oportunidade de estágio para aplicar minha visão criativa em soluções tecnológicas.
 
 
 
